@@ -1,0 +1,51 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources <</Font <</F1 5 0 R>>>> >>
+endobj
+4 0 obj
+<</Length 668>>
+stream
+BT
+/F1 10 Tf
+40 750 Td
+14 TL
+(PRAGYADRISHTI AI EXECUTIVE REPORT) T*
+(Title: Executive Data & ML Analytics Summary 2026) T*
+(Generated: 2026-09-22 15:12:56) T*
+(============================================================) T*
+(EXECUTIVE SUMMARY:) T*
+(Executive report generated for dataset 'pragyadrishti_sales_test_dataset' \() T*
+(102 rows, 9 columns\). Quality score: 98.9%.) T*
+(============================================================) T*
+(Active Dataset: pragyadrishti_sales_test_dataset) T*
+(Row Count: 100 | Column Count: 9) T*
+(Quality Score: 100.0%) T*
+(Columns: Order_ID, Date, Region, Product, Quantity, Unit_Price, Discount, S) T*
+(ales, Profit) T*
+ET
+
+endstream
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000062 00000 n 
+0000000117 00000 n 
+0000000238 00000 n 
+0000000955 00000 n 
+trailer
+<</Size 6 /Root 1 0 R>>
+startxref
+1023
+%%EOF

@@ -1,0 +1,168 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources <</Font <</F1 5 0 R>>>> >>
+endobj
+4 0 obj
+<</Length 3434>>
+stream
+BT
+/F1 8.5 Tf
+11 TL
+35 770 Td
+(===================================================================) Tj
+T*
+(  PRAGYADRISHTI DATA ANALYTICS REPORT) Tj
+T*
+(  Generated: 2026-10-28 10:40:41 | PragyaDrishti Platform) Tj
+T*
+(===================================================================) Tj
+T*
+() Tj
+T*
+([EXECUTIVE SUMMARY]) Tj
+T*
+(Executive report generated for dataset 'pragyadrishti_sales_test_dataset' \(ID ) Tj
+T*
+(#6, 102 rows, 9 columns\). Data quality score: 100%.) Tj
+T*
+() Tj
+T*
+([DATASET OVERVIEW & METADATA]) Tj
+T*
+(Dataset Name:     pragyadrishti_sales_test_dataset) Tj
+T*
+(Dataset ID:       #6) Tj
+T*
+(Row Count:        100) Tj
+T*
+(Column Count:     9) Tj
+T*
+(Quality Score:    100.0%) Tj
+T*
+(Columns:          Order_ID, Date, Region, Product, Quantity, Unit_Price, Disco) Tj
+T*
+(unt, Sales, Profit) Tj
+T*
+(Cleaning Status:  Dataset has been cleaned \(version 3\). Cleaned file stored.) Tj
+T*
+() Tj
+T*
+([AI EXECUTIVE INSIGHTS]) Tj
+T*
+(Summary: Analysis of 'pragyadrishti_sales_test_dataset' dataset \(100 rows ◊ 9 ) Tj
+T*
+(columns\) indicates a data quality score of 100.0%. Active trained model availa) Tj
+T*
+(ble: Gradient Boosting Regressor predicting 'Sales' \(regression\).) Tj
+T*
+(- Zero missing values detected across dataset features.) Tj
+T*
+(- Zero duplicate rows detected.) Tj
+T*
+(- Feature 'Quantity' averages 5.18 \(range: 1.0 to 10.0\).) Tj
+T*
+(- Machine learning model 'Model_regression_pragyadrishti_sales_test_dataset' \() Tj
+T*
+(Gradient Boosting Regressor\) ready for inference.) Tj
+T*
+() Tj
+T*
+([COLUMN SCHEMA & TYPES]) Tj
+T*
+(  * Order_ID: Type=str, NonNull=100, Missing=0) Tj
+T*
+(  * Date: Type=datetime64[us], NonNull=100, Missing=0) Tj
+T*
+(  * Region: Type=str, NonNull=100, Missing=0) Tj
+T*
+(  * Product: Type=str, NonNull=100, Missing=0) Tj
+T*
+(  * Quantity: Type=int64, NonNull=100, Missing=0) Tj
+T*
+(  * Unit_Price: Type=float64, NonNull=100, Missing=0) Tj
+T*
+(  * Discount: Type=float64, NonNull=100, Missing=0) Tj
+T*
+(  * Sales: Type=float64, NonNull=100, Missing=0) Tj
+T*
+(  * Profit: Type=float64, NonNull=100, Missing=0) Tj
+T*
+() Tj
+T*
+([DATA INTEGRITY SUMMARY]) Tj
+T*
+(Total Missing Values: 0) Tj
+T*
+(Duplicate Rows Count: 0) Tj
+T*
+() Tj
+T*
+([NUMERIC DESCRIPTIVE STATISTICS]) Tj
+T*
+(  * Quantity: Mean=5.18, Min=1.0, Max=10.0, Std=2.8863) Tj
+T*
+(  * Unit_Price: Mean=672.6755, Min=105.7, Max=1195.88, Std=315.1615) Tj
+T*
+(  * Discount: Mean=9.722, Min=0.3, Max=19.6, Std=5.8492) Tj
+T*
+(  * Sales: Mean=3079.5731, Min=109.57, Max=9346.6538, Std=2326.9096) Tj
+T*
+(  * Profit: Mean=606.7474, Min=10.77, Max=1984.7462, Std=506.1195) Tj
+T*
+() Tj
+T*
+([CATEGORICAL FEATURES]) Tj
+T*
+(  * Order_ID: ORD0001:1, ORD0002:1, ORD0003:1, ORD0004:1) Tj
+T*
+(  * Date: 2026-01-01 00:00:00:1, 2026-01-02 00:00:00:1, 2026-01-03 00:00:00:1,) Tj
+T*
+( 2026-01-04 00:00:00:1) Tj
+T*
+(  * Region: West:31, South:25, East:24, North:20) Tj
+T*
+() Tj
+T*
+([TRAINED ML MODELS CATALOG]) Tj
+T*
+(  * Model #3 - Gradient Boosting Regressor \(Target: Sales, Task: regression\)) Tj
+T*
+(  * Model #4 - Neural Network Regressor \(MLP\) \(Target: Profit, Task: regressio) Tj
+T*
+(n\)) Tj
+T*
+(  * Model #5 - Random Forest Regressor \(Target: Sales, Task: regression\)) Tj
+T*
+(  * Model #6 - Random Forest Regressor \(Target: Profit, Task: regression\)) Tj
+T*
+(  * Model #7 - Random Forest Regressor \(Target: Profit, Task: regression\)) Tj
+T*
+(  * Model #8 - Random Forest Regressor \(Target: Profit, Task: regression\)) Tj
+T*
+ET
+
+endstream
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Courier>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000062 00000 n 
+0000000117 00000 n 
+0000000238 00000 n 
+0000003722 00000 n 
+trailer
+<</Size 6 /Root 1 0 R>>
+startxref
+3788
+%%EOF
